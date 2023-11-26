@@ -1,0 +1,18 @@
+html,
+body {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  background-image: radial-gradient(rgb(0, 255, 238), rgb(255, 255, 255));
+}
+div{
+  height: 60%;
+  width: 100%;
+  padding: 25% 0 0 0;
+}
+b{
+  text-align: center;
+  font-size: 100px;
+  color: rgba(37, 44, 51, 0.5);
+  margin-left: 35%;
+}
